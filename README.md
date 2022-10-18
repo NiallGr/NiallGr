@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Niall
-- 👀 I’m interested in Web Development and Data Analysis, Currently working with Python
+- 👀 I’m interested in Web Development and Data Analysis, Currently working with Python.
+- 💭 Experiance with Java, Python, Javascript, React, Angular, Tailwind CSS, AWS(Hosting)
 - 📫 How to reach me niallgrainger@gmail.com
 
 <!---
