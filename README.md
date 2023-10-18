@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niall
-- 👀 I’m interested in Software Development, Currently working with C# and ASP.NET.
+- 👀 I’m interested in Software Development, currently working with C# and ASP.NET.
 - 💭 Professional Experience with C#, ASP.NET, MySQL, Javascript, HTML, CSS, Azure
 - 📫 How to reach me niallgrainger@gmail.com
 
