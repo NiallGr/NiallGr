@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niall
-- 👀 I’m interested in Web Development and Data Analysis, Currently working with Python.
-- 💭 Experiance with Java, Python, Javascript, React, Angular, SQL, Tailwind CSS, AWS(Hosting)
+- 👀 I’m interested in Software Development, Currently working with C# and ASP.NET.
+- 💭 Professional Experience with C#, ASP.NET, MySQL, Javascript, HTML, CSS, Azure
 - 📫 How to reach me niallgrainger@gmail.com
 
 <!---
